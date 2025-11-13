@@ -124,9 +124,3 @@ Running the notebook generates:
 - scikit-learn - Machine learning models and evaluation
 - matplotlib - Plotting
 - seaborn - Statistical visualizations
-
-## 👥 Author
-Arul (GitHub: @Ish2905)
-
-## 📄 License
-This project is open source and available for educational purposes.
